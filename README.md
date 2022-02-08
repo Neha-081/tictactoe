@@ -54,6 +54,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 https://reactjs.org/tutorial/tutorial.html
 
 ---
-
-### Contact
-Feel free to reach me - <nehaprajapati1150@gmail.com>
+## Contact
+Feel free to reach me ->
+- Email - <nehaprajapati1150@gmail.com> 
+- LinkedIn - https://linkedin.com/in/neha-prajapati-1150
+- Twitter - https://twitter.com/NehaPra03810819
