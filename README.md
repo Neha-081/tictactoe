@@ -12,7 +12,11 @@ https://tictactoe-neha.netlify.app/
 
 ### How it Look
 
-![video-to-gif-converter](https://user-images.githubusercontent.com/87421798/152977032-1c25f11b-f87d-4bee-b27c-6d9851080cf5.gif)
+
+
+
+
+<img src="https://user-images.githubusercontent.com/87421798/152978156-d2db22a6-3950-4c34-81e9-f00ea808ae69.gif" width=500>
 
 
 
